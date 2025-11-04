@@ -35,10 +35,7 @@ function contaFrequencias(palavras) {
             }
         }
     }
-
+ 
+    
     return palavras;
-
-
-
-
 }
